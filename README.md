@@ -3,7 +3,7 @@
 This app uses `Firebase` as a database as well as for user authentication.
 Users can upload their posts onto the blog and have it be persistent.
 
-#### Example video [Here](https://youtu.be/HxhXqJddCO0).
+#### ~~Example video [Here]().~~
 
 ## Dependencies
 This program requires installing some dependencies, using `npm`. Be sure to have it installed beforehand.
